@@ -1,0 +1,15 @@
+.edit{
+    height: 30px;
+    width: 100px;
+    border: dotted 2px black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: sans-serif;
+    font-weight: 900;
+    background-color: rgb(248, 213, 117);
+}
+.offerstart{
+    font-size: 1.7rem;
+    font-weight: 700;
+}
